@@ -1,7 +1,7 @@
-const Vorname = ["Rajwinder Singh"];
-const Nachname = ["Mohal"];
-let Postleizahl = ["51143"];
-const Lieblingszahl = ["88"];
+const Vorname = "Rajwinder Singh";
+const Nachname = "Mohal";
+let Postleizahl = 51143;
+const Lieblingszahl = 88;
 const Hobbies = ["Lessen", "Musik Hören", "Games"];
 
 
