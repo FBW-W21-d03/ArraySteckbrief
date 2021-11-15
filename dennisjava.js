@@ -3,19 +3,19 @@ console.log("ArraySteckbrief");
 //  Aufgabenstellung Teil 1
 
 // Schreibe deinen Vornamen in eine Konstante
-const firstName = ["Dennis"]
+const firstName = "Dennis"
 
 // Schreibe deinen Nachnamen in eine Konstante
-const lastName = ["Müller"]
+const lastName = "Müller"
 
 // Schreibe deine Postleizahl in eine Variable
 let a = 23898;
 
 // Schreibe deine Lieblingszahl in eine Konstante
-const favoriteNumber = ["23"]
+const favoriteNumber = "23"
 
 // Erstelle in Array mit dem Namen 'Hobbies'.
-const hobbies = ["Angeln", "Hunde", "Motorrad"];
+const hobbies = ["Angeln", "Hunde" , "Motorrad"];
 
 // Aufgabenstellung Teil 2
 /* Schreibe für jeden Stichpunkt deines Steckbriefs eine Konsolenausgabe.
